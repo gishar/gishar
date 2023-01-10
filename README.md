@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, Gishar here!</h1>
 <h3 align="center">I like to learn! I wish I was a conscious machine sometimes! </h3>
 <h4 align="center"> 🌱 I’m currently learning Data Science page after page through ISLR </h4>
