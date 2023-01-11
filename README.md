@@ -1,16 +1,12 @@
+<!--- 
 ![Header](https://github.com/gishar/gishar/blob/main/Laguna%2012.jpg "Header")
-<h1 align="center">Hi <img src="https://github.com/gishar/gishar/blob/main/waveit.gif" width="28px">, Gishar here!</h1>
-<h3 align="center">I like to learn!  </h3> 
-<h4 align="center"> 🌱 I’m currently learning Data Science through ISLR and mainly learning and working with R, Python, and SQL </h4>
+--->
+<h1 align="center"> Hi <img src="https://github.com/gishar/gishar/blob/main/waveit.gif" width="28px">, Gishar here!</h1>
+<p align="center"> I am a <b><u>Traffic Engineer</u></b> who likes to learn almost everything! <p>
+<p align="center"> 🌱 I’m currently learning Data Science through ISLR and mainly learning and working with R, Python, and SQL <p>
 
-<h6 align="center"> Sometimes, I wish I was a conscious machine that did not need to eat or sleep!  </h3> 
-
-
-
-
-
+<p align="center"><code> Sometimes..., I wish I was a conscious machine that did not need to eat or sleep! </code></h3> 
 <!--
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mojtabam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojtabam" height="30" width="40" /></a>
