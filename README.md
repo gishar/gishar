@@ -1,6 +1,11 @@
 <!--- 
 ![Header](https://github.com/gishar/gishar/blob/main/Laguna%2012.jpg "Header")
+
+![Header](https://github.com/gishar/gishar/blob/main/Gishar!.png "Header")
 --->
+
+<p align="center"> <img src="https://github.com/gishar/gishar/blob/main/Gishar!.png" width="700px"></>
+
 <h1 align="center"> Hi <img src="https://github.com/gishar/gishar/blob/main/waveit.gif" width="28px">, Gishar here!</h1>
 <p align="center"> I am a <b><u>Traffic Engineer</u></b> who likes to learn almost everything! <p>
 <p align="center"> 🌱 I’m currently learning Data Science through ISLR and mainly learning and working with R, Python, and SQL <p>
