@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, Gishar here!</h1>
-<h3 align="center">I like to learn! Sometimes, I wish I was a conscious machine that did not need to eat or sleep! </h3>
-<p align="center"> 🌱 I’m currently learning Data Science through ISLR and mainly working on R, Python, and SQL </h4>
+![Header](https://github.com/gishar/gishar/blob/main/Laguna%2012.jpg "Header")
+<h1 align="center">Hi <img src="https://github.com/gishar/gishar/blob/main/waveit.gif" width="28px">, Gishar here!</h1>
+<h3 align="center">I like to learn!  </h3> 
+<h4 align="center"> 🌱 I’m currently learning Data Science through ISLR and mainly learning and working with R, Python, and SQL </h4>
+
+<h6 align="center"> Sometimes, I wish I was a conscious machine that did not need to eat or sleep!  </h3> 
+
+
+
 
 
 <!--
