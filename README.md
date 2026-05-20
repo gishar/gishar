@@ -8,7 +8,7 @@
 
 <h1 align="center"> Hi <img src="https://github.com/gishar/gishar/blob/main/waveit.gif" width="28px">, Caspian here!</h1>
 <p align="center"> I am a <b><u>Traffic Engineer</u></b> who likes to learn almost everything! <p>
-<p align="center"> 🌱 I’m currently learning Data Science through ISLR, ISLP and mainly learning and working with R, Python, and SQL <p>
+<p align="center"> 🌱 For some time I munched and crunched on Data Science through ISLR, ISLP and mainly learning and working with R, Python, and SQL but I don't think I need to keep all that in my mind anymore! <p>
 
 <p align="center"><code> Sometimes..., I wish I was a "conscious" machine that did not need to eat or sleep! </code></h3> 
 <!--
